@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There! I'm Hasan. I'm making improvements on JavaScript & Python.
+Hi There! I'm Hasan. I'm making improvements on Python.
 
 
 ## 🌐 Socials:
