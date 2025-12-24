@@ -17,4 +17,3 @@ Hi There! I'm Hasan. I'm making improvements on Python.
 # 📊 GitHub Stats:
 ![Streak](https://streak-stats.demolab.com?user=kaya-hasan&theme=material-palenight&hide_border=false&cache_seconds=1800)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaya-hasan&theme=tokyonight&border_radius=4.8)](https://git.io/streak-stats)
