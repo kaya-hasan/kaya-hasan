@@ -1,26 +1,23 @@
-# Kaya Hasan
+# 💫 About Me:
+Hi There! I'm Hasan. I'm making improvements on Python.
 
-Merhaba, ben Kaya Hasan. Bu repo kişisel profilimin README dosyasıdır.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-kayahasan)
 
-## GitHub İstatistikler
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- GitHub readme stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaya-hasan&show_icons=true&theme=radical" alt="kaya-hasan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaya-hasan&layout=compact&theme=radical" alt="kaya-hasan's top languages" />
-</p>
-
-<!-- GitHub streak stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaya-hasan&theme=radical" alt="kaya-hasan's streak" />
-</p>
+# 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=kaya-hasan&show_icons=true&theme=material-palenight&hide_border=false&cache_seconds=1800)
+![Streak](https://streak-stats.demolab.com?user=kaya-hasan&theme=material-palenight&hide_border=false&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaya-hasan&layout=compact&theme=material-palenight&hide_border=false&cache_seconds=1800)
 
 ---
-
-Eğer bu istatistik kartları görünmüyorsa:
-
-- Kullanıcı adınızın doğru olduğundan emin olun (burada `kaya-hasan`).
-- Profilinizin "Include private contributions on my profile" ayarı bazı kartlarda görünümü etkilemez ama katkılarınızın görünürlüğünü kontrol edin.
-- Eğer HTTPS yerine özel bir bağlantı veya CSP engeli varsa, tarayıcı konsolunda hataya bakın.
-
-Bu değişikliği README.md'ye ekledim ve dosyayı main dalına yolladım.
+![Visit Count](https://visitcount.itsvg.in/api?id=kaya-hasan&icon=0&color=0)
