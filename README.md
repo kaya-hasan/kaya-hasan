@@ -15,8 +15,6 @@ Hi There! I'm Hasan. I'm making improvements on Python.
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaya-hasan&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 ![Streak](https://streak-stats.demolab.com?user=kaya-hasan&theme=material-palenight&hide_border=false&cache_seconds=1800)
 
----
-![Visit Count](https://visitcount.itsvg.in/api?id=kaya-hasan&icon=0&color=0)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaya-hasan&theme=tokyonight&border_radius=4.8)](https://git.io/streak-stats)
